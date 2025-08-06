@@ -10,3 +10,6 @@ Aqui será passado códigos em Python para mostrar um novo futuro que está send
 
 # Contador de dedos 2v
 É um projeto já existente que foi atualizado por conta de problemas ao baixar a biblioteca do projeto 1.
+
+# Clara
+Bot autonomo para "farming" em jogos
